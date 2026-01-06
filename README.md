@@ -1,21 +1,23 @@
 # 🤖 My AI
 
-**My AI** é um aplicativo que executa modelos de linguagem **LLaMA no formato GGUF localmente**, diretamente no dispositivo, sem depender de internet ou APIs externas.
+**My AI** é um aplicativo que executa modelos de linguagem **LLaMA no formato GGUF localmente**, diretamente no dispositivo, sem dependência de internet ou APIs externas.
 
-O foco do projeto é oferecer **IA offline**, com **privacidade total**, controle do usuário sobre os modelos utilizados e liberdade para experimentação.
+O projeto tem como objetivo oferecer uma solução de **Inteligência Artificial offline**, com **privacidade**, **autonomia** e **controle total do usuário** sobre os modelos e dados utilizados.
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-Este aplicativo foi desenvolvido por **um integrante da equipe Clusters**, equipe de **FIRST Tech Challenge (FTC)** do **Instituto SESI SENAI**, como parte de estudos e experimentações envolvendo:
+Este aplicativo foi desenvolvido por **um integrante da equipe Clusters**, equipe de **FIRST Tech Challenge (FTC)** do **Instituto SESI SENAI**.
 
-- Inteligência Artificial  
-- Execução local de LLMs  
-- Engenharia de software  
-- Autonomia computacional e privacidade de dados  
+O **My AI** possui relação direta com a FTC, tendo sido idealizado para atuar como um **assistente de apoio à equipe**, podendo ser utilizado para:
 
-O projeto tem caráter **educacional, experimental e open-source**.
+- Auxiliar programadores durante o desenvolvimento de código  
+- Apoiar o estudo de conceitos técnicos e lógicos  
+- Contribuir com a organização da equipe  
+- Ajudar no planejamento de tarefas, cronogramas e divisão de atividades  
+
+Trata-se de um projeto com caráter **educacional, experimental e de apoio ao desenvolvimento técnico**, alinhado aos valores da FTC, como inovação, aprendizado prático e trabalho em equipe.
 
 ---
 
@@ -23,51 +25,52 @@ O projeto tem caráter **educacional, experimental e open-source**.
 
 - Execução local de modelos **LLaMA (GGUF)**
 - Funcionamento **100% offline**
-- Nenhum envio de dados para servidores externos
 - Suporte a modelos personalizados
-- Foco em privacidade e controle do usuário
+- Nenhuma dependência de serviços externos
+- Foco em privacidade, desempenho e controle do usuário
 
 ---
 
-## 🔒 Privacidade
+## 🔒 Privacidade e Segurança
 
-O **My AI** não coleta, armazena ou envia dados para a internet.  
-Toda a inferência acontece **localmente no dispositivo**.
+O **My AI** não coleta, armazena ou transmite dados para servidores externos.  
+Toda a inferência e processamento ocorrem **exclusivamente no dispositivo**, garantindo segurança e confidencialidade das informações.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - Modelos **LLaMA (GGUF)**
-- Inferência local (ex: `llama.cpp`)
-- Android / Kotlin *(se aplicável)*
-- Arquitetura focada em modularidade e experimentação
+- Inferência local (ex: `llama.cpp` ou implementação equivalente)
+- Android / Kotlin *(quando aplicável)*
+- Arquitetura modular voltada para experimentação e aprendizado
 
 ---
 
 ## 📚 Objetivo Educacional
 
-Este projeto tem como objetivo:
+Os principais objetivos deste projeto incluem:
 
-- Aprender na prática como funcionam LLMs
-- Explorar limitações e possibilidades da IA local
-- Desenvolver habilidades técnicas aplicáveis à robótica e software
-- Incentivar o uso consciente e privado de IA
+- Aplicar conceitos de Inteligência Artificial na prática  
+- Explorar o uso de LLMs em ambiente local  
+- Desenvolver habilidades em engenharia de software  
+- Apoiar equipes de robótica na organização e programação  
+- Incentivar o uso ético, consciente e privado da IA  
 
 ---
 
 ## 📄 Licença
 
-Este projeto é distribuído sob licença open-source.  
-Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto é distribuído sob uma licença open-source.  
+Para mais informações, consulte o arquivo `LICENSE`.
 
 ---
 
 ## 🤝 Contribuições
 
-Contribuições, sugestões e melhorias são bem-vindas, especialmente aquelas com foco educacional e técnico.
+Contribuições são bem-vindas, desde que alinhadas ao propósito educacional e técnico do projeto.
 
 ---
 
-> Projeto desenvolvido por um integrante da **equipe Clusters de FTC**  
+> Projeto desenvolvido por um integrante da **equipe Clusters – FIRST Tech Challenge (FTC)**  
 > **Instituto SESI SENAI**
