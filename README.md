@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="App-icon.jpeg" alt="My AI Logo" width="200">
+  <img src="App-icon.png" alt="My AI Logo" width="300">
 </p>
 
 # 🤖 My AI
