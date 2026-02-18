@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="App-icon.jpeg" alt="My AI Logo" width="200">
+</p>
+
 # 🤖 My AI
 
 **My AI** é um aplicativo que executa modelos de linguagem **LLaMA no formato GGUF localmente**, diretamente no dispositivo, sem dependência de internet ou APIs externas.
@@ -72,5 +76,4 @@ Contribuições são bem-vindas, desde que alinhadas ao propósito educacional e
 
 ---
 
-> Projeto desenvolvido por um integrante da **equipe Clusters – FIRST Tech Challenge (FTC)**  
-> **Instituto SESI SENAI**
+> Projeto desenvolvido por um integrante da **equipe Clusters – FIRST Tech Challenge (FTC)** > **Instituto SESI SENAI**
